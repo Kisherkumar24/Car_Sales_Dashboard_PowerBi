@@ -20,7 +20,8 @@ Sales
 - MTD Cars Sold
 - YOY Growth in Cars Sold
 - Difference between YTD Cars Sold and PTYD Cars Sold
-- 
+
+
   Charts Requirement:
 
 1. YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of

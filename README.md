@@ -23,7 +23,7 @@ Sales
 - 
   Charts Requirement:
 
-  1. YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of
+1. YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of
 YTD sales. The X-axis should represent weeks, and the Y-axis should show
 the total sales amount.
 

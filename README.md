@@ -1,5 +1,5 @@
 # Car_Sales_Dashboard_PowerBi
-#LiveDashboard:[ https://app.powerbi.com/links/VsHZCYYJGg?ctid=5c7d0b28-bdf8-410c-aa93-4df372b16203&pbi_source=linkShare](url)
+
 1. YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of
 YTD sales. The X-axis should represent weeks, and the Y-axis should show
 the total sales amount.

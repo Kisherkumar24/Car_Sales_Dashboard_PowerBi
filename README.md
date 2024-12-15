@@ -1,4 +1,37 @@
 # Car_Sales_Dashboard_PowerBi
+#LiveDashboard:[ https://app.powerbi.com/links/VsHZCYYJGg?ctid=5c7d0b28-bdf8-410c-aa93-4df372b16203&pbi_source=linkShare](url)
+1. YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of
+YTD sales. The X-axis should represent weeks, and the Y-axis should show
+the total sales amount.
+2. YTD Total Sales by Body Style: Visualize the distribution of YTD total sales
+across different car body styles using a Pie chart.
+3. YTD Total Sales by Color: Present the contribution of various car colors to
+the YTD total sales through a pie chart.
+4. YTD Cars Sold by Dealer Region: Showcase the YTD sales data based on
+different dealer regions using a map chart to visualize the sales distribution
+geographically.
+5. Company-Wise Sales Trend in Grid Form: Provide a tabular grid that
+displays the sales trend for each company. The grid should showcase the
+company name along with their YTD sales figures.
+6. Details Grid Showing All Car Sales Information: Create a detailed grid that
+presents all relevant information for each car sale, including car model, body
+style, colour, sales amount, dealer region, date, etc
+1. YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of
+YTD sales. The X-axis should represent weeks, and the Y-axis should show
+the total sales amount.
+2. YTD Total Sales by Body Style: Visualize the distribution of YTD total sales
+across different car body styles using a Pie chart.
+3. YTD Total Sales by Color: Present the contribution of various car colors to
+the YTD total sales through a pie chart.
+4. YTD Cars Sold by Dealer Region: Showcase the YTD sales data based on
+different dealer regions using a map chart to visualize the sales distribution
+geographically.
+5. Company-Wise Sales Trend in Grid Form: Provide a tabular grid that
+displays the sales trend for each company. The grid should showcase the
+company name along with their YTD sales figures.
+6. Details Grid Showing All Car Sales Information: Create a detailed grid that
+presents all relevant information for each car sale, including car model, body
+style, colour, sales amount, dealer region, date, etc
 This Car Sales Analysis report provides an in-depth overview of sales performance across various car models, brands, and regions. It enables business users to gain insights into sales trends, identify high-performing vehicles, track sales by regions, and make data-driven decisions to enhance business performance.
 
 Background: Our company is a car dealership that sells various car models. To

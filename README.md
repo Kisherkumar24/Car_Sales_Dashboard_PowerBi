@@ -1,4 +1,6 @@
-# Car_Sales_Dashboard_PowerBi
+# Car Sales Dashboard
+<img width="611" alt="Dashboard Pic" src="https://github.com/user-attachments/assets/c34f9b71-3812-492d-be8a-c3bdef7644e7" />
+
 Objective: The objective of this project is to design and develop an interactive Car Sales Dashboard in Power BI. The dashboard will visualize key sales KPIs, enabling us to track performance over time and make informed, data-driven decisions.
 
 KPI’s Requirement:
